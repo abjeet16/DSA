@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abjeet16/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abjeet16/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abjeet16/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abjeet16/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 ## String Matching
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/abjeet16/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abjeet16/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abjeet16/DSA/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
