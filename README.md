@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abjeet16/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abjeet16/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abjeet16/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abjeet16/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abjeet16/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abjeet16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abjeet16/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/abjeet16/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abjeet16/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
