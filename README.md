@@ -78,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abjeet16/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abjeet16/DSA/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abjeet16/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
