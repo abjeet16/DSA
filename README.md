@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abjeet16/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abjeet16/DSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abjeet16/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abjeet16/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abjeet16/DSA/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
