@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/abjeet16/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abjeet16/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/abjeet16/DSA/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abjeet16/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abjeet16/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abjeet16/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/abjeet16/DSA/tree/master/0051-n-queens) |
 ## Dynamic Programming
 |  |
 | ------- |
