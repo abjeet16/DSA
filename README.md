@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abjeet16/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abjeet16/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abjeet16/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abjeet16/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abjeet16/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abjeet16/DSA/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abjeet16/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
