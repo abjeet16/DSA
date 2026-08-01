@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abjeet16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abjeet16/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/abjeet16/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abjeet16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abjeet16/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abjeet16/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abjeet16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abjeet16/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abjeet16/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abjeet16/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abjeet16/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Tree
 |  |
 | ------- |
