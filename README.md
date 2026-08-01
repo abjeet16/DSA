@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abjeet16/DSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,8 +184,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abjeet16/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abjeet16/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
