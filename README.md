@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abjeet16/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/abjeet16/DSA/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/abjeet16/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abjeet16/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abjeet16/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abjeet16/DSA/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abjeet16/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abjeet16/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abjeet16/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abjeet16/DSA/tree/master/0088-merge-sorted-array) |
 ## Recursion
 |  |
 | ------- |
