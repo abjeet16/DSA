@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/abjeet16/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abjeet16/DSA/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abjeet16/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abjeet16/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/abjeet16/DSA/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
