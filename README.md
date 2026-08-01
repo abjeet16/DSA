@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abjeet16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/abjeet16/DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/abjeet16/DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/abjeet16/DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abjeet16/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abjeet16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/abjeet16/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abjeet16/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abjeet16/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abjeet16/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abjeet16/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -275,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abjeet16/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abjeet16/DSA/tree/master/0130-surrounded-regions) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
