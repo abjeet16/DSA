@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abjeet16/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abjeet16/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/abjeet16/DSA/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/abjeet16/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/abjeet16/DSA/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abjeet16/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/abjeet16/DSA/tree/master/0090-subsets-ii) |
 ## Memoization
 |  |
 | ------- |
