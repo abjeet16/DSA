@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/abjeet16/DSA-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abjeet16/DSA-leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/abjeet16/DSA-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abjeet16/DSA-leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/abjeet16/DSA-leetcode/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
