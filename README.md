@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Hash Table
 |  |
 | ------- |
