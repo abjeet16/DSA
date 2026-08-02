@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Stack
 |  |
 | ------- |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abjeet16/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abjeet16/DSA-leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Linked List
 |  |
 | ------- |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abjeet16/DSA-leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
