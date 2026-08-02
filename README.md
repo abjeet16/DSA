@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abjeet16/DSA-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abjeet16/DSA-leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/abjeet16/DSA-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abjeet16/DSA-leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2582-pass-the-pillow](https://github.com/abjeet16/DSA-leetcode/tree/master/2582-pass-the-pillow) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Combinatorics
 |  |
 | ------- |
