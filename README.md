@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -1042,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/abjeet16/DSA-leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Interactive
 |  |
