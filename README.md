@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/abjeet16/DSA-leetcode/tree/master/3136-valid-word) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abjeet16/DSA-leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/abjeet16/DSA-leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/abjeet16/DSA-leetcode/tree/master/2843-count-symmetric-integers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abjeet16/DSA-leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/abjeet16/DSA-leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
