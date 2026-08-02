@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/abjeet16/DSA-leetcode/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3100-water-bottles-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3100-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abjeet16/DSA-leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -1102,4 +1107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abjeet16/DSA-leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
