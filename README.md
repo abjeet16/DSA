@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/abjeet16/DSA-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abjeet16/DSA-leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Stack
 |  |
 | ------- |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Interactive
 |  |
