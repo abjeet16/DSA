@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abjeet16/DSA-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abjeet16/DSA-leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abjeet16/DSA-leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abjeet16/DSA-leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abjeet16/DSA-leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/abjeet16/DSA-leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/1463-cherry-pickup-ii) |
