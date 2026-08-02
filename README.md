@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abjeet16/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abjeet16/DSA-leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abjeet16/DSA-leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Backtracking
 |  |
 | ------- |
