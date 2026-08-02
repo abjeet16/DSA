@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abjeet16/DSA-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/abjeet16/DSA-leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1534-count-good-triplets](https://github.com/abjeet16/DSA-leetcode/tree/master/1534-count-good-triplets) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/abjeet16/DSA-leetcode/tree/master/1534-count-good-triplets) |
 ## Number Theory
 |  |
 | ------- |
