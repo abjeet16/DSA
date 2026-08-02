@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abjeet16/DSA-leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3819-rotate-non-negative-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/3819-rotate-non-negative-elements) |
+| [3899-angles-of-a-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3899-angles-of-a-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abjeet16/DSA-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3899-angles-of-a-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3899-angles-of-a-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -1459,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abjeet16/DSA-leetcode/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abjeet16/DSA-leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3899-angles-of-a-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3899-angles-of-a-triangle) |
 ## Doubly-Linked List
 |  |
 | ------- |
