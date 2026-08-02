@@ -842,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abjeet16/DSA-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/abjeet16/DSA-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
