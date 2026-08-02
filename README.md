@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abjeet16/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [1755-closest-subsequence-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/abjeet16/DSA-leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abjeet16/DSA-leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
