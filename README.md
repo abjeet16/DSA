@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abjeet16/DSA-leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/abjeet16/DSA-leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/abjeet16/DSA-leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Graph Theory
 |  |
 | ------- |
