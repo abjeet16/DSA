@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Sorting
 |  |
 | ------- |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/abjeet16/DSA/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0292-nim-game) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
