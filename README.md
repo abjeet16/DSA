@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0263-ugly-number) |
 ## Sorting
 |  |
 | ------- |
