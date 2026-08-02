@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abjeet16/DSA-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/abjeet16/DSA-leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
