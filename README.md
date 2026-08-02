@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abjeet16/DSA-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abjeet16/DSA-leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abjeet16/DSA-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abjeet16/DSA-leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abjeet16/DSA-leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
