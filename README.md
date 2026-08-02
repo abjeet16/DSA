@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abjeet16/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Linked List
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Union-Find
 |  |
 | ------- |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Trie
 |  |
 | ------- |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1791-find-center-of-star-graph](https://github.com/abjeet16/DSA-leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
