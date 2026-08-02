@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-trionic-array-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3640-trionic-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3819-rotate-non-negative-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
 |  |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/abjeet16/DSA-leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3640-trionic-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3640-trionic-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
