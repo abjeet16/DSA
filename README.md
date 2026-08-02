@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abjeet16/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abjeet16/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abjeet16/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abjeet16/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/abjeet16/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abjeet16/DSA/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abjeet16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abjeet16/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abjeet16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abjeet16/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
