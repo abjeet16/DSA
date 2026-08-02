@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/abjeet16/DSA-leetcode/tree/master/1925-count-square-sum-triples) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/abjeet16/DSA-leetcode/tree/master/1534-count-good-triplets) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/abjeet16/DSA-leetcode/tree/master/1925-count-square-sum-triples) |
 ## Number Theory
 |  |
 | ------- |
