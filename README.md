@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abjeet16/DSA-leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/abjeet16/DSA-leetcode/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3100-water-bottles-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3100-water-bottles-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Combinatorics
@@ -1378,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Interactive
 |  |
 | ------- |
