@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abjeet16/DSA-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abjeet16/DSA-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
