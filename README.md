@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abjeet16/DSA-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
