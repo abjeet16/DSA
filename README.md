@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abjeet16/DSA-leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
