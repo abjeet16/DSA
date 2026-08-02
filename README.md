@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abjeet16/DSA-leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abjeet16/DSA-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/abjeet16/DSA-leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/abjeet16/DSA-leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abjeet16/DSA-leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
