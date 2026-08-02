@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abjeet16/DSA-leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abjeet16/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abjeet16/DSA-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/abjeet16/DSA-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abjeet16/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abjeet16/DSA-leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abjeet16/DSA-leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/abjeet16/DSA-leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2582-pass-the-pillow](https://github.com/abjeet16/DSA-leetcode/tree/master/2582-pass-the-pillow) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
