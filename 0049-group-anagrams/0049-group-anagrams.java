@@ -10,7 +10,10 @@ class Solution {
                 char ch = (char)('a'+i);
                 s.repeat(ch,freq[i]);
             }
-            List<String> ans = ans = map.getOrDefault(s.toString(),new ArrayList<>());
+            List<String> ans = new ArrayList<>();
+            if(map.containsKey(s.toString())){
+                ans = map.get(s.toString());
+            }
             ans.add(str);
             map.put(s.toString(),ans);
         }
