@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abjeet16/DSA-leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abjeet16/DSA-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -999,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/abjeet16/DSA-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
 | ------- |
