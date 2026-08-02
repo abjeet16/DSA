@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abjeet16/DSA-leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/abjeet16/DSA-leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/abjeet16/DSA-leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Combinatorics
 |  |
 | ------- |
