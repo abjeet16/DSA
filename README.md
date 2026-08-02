@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abjeet16/DSA-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
 |  |
@@ -1329,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/abjeet16/DSA-leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Quickselect
 |  |
