@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abjeet16/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/abjeet16/DSA-leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Linked List
 |  |
 | ------- |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/abjeet16/DSA-leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
