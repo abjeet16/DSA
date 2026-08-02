@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abjeet16/DSA-leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2706-buy-two-chocolates](https://github.com/abjeet16/DSA-leetcode/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/abjeet16/DSA-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/abjeet16/DSA-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abjeet16/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/abjeet16/DSA-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abjeet16/DSA-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/abjeet16/DSA-leetcode/tree/master/2706-buy-two-chocolates) |
+| [2784-check-if-array-is-good](https://github.com/abjeet16/DSA-leetcode/tree/master/2784-check-if-array-is-good) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
