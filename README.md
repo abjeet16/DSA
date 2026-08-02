@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abjeet16/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abjeet16/DSA-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
 ## Union-Find
 |  |
 | ------- |
