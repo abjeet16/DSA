@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0290-word-pattern) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abjeet16/DSA-leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/abjeet16/DSA-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abjeet16/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/abjeet16/DSA-leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [1390-four-divisors](https://github.com/abjeet16/DSA-leetcode/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abjeet16/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abjeet16/DSA-leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/abjeet16/DSA-leetcode/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abjeet16/DSA-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
