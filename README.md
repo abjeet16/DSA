@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/abjeet16/DSA-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abjeet16/DSA-leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Combinatorics
 |  |
 | ------- |
