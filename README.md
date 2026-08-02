@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/abjeet16/DSA-leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3151-special-array-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3151-special-array-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
