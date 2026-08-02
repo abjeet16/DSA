@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abjeet16/DSA-leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abjeet16/DSA-leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/abjeet16/DSA-leetcode/tree/master/2092-find-all-people-with-secret) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1922-count-good-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/abjeet16/DSA-leetcode/tree/master/1925-count-square-sum-triples) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
