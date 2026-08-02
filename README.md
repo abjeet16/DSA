@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/abjeet16/DSA-leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/abjeet16/DSA-leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
