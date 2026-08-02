@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abjeet16/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abjeet16/DSA-leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
