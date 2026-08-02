@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abjeet16/DSA-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/abjeet16/DSA-leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2460-apply-operations-to-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Combinatorics
 |  |
 | ------- |
