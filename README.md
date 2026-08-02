@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0292-nim-game) |
 ## Sorting
 |  |
 | ------- |
@@ -531,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/abjeet16/DSA-leetcode/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abjeet16/DSA-leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
