@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1260-shift-2d-grid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/abjeet16/DSA-leetcode/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abjeet16/DSA-leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/abjeet16/DSA-leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/abjeet16/DSA-leetcode/tree/master/1051-height-checker) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abjeet16/DSA-leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abjeet16/DSA-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/abjeet16/DSA-leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
