@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/abjeet16/DSA-leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -138,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abjeet16/DSA-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1408-string-matching-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abjeet16/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
