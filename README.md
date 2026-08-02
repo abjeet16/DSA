@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/abjeet16/DSA-leetcode/tree/master/1550-three-consecutive-odds) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/abjeet16/DSA-leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
