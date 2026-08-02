@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abjeet16/DSA-leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abjeet16/DSA-leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abjeet16/DSA-leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/abjeet16/DSA-leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/abjeet16/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abjeet16/DSA-leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Combinatorics
 |  |
 | ------- |
