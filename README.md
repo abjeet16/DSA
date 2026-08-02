@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abjeet16/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abjeet16/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abjeet16/DSA-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/abjeet16/DSA-leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abjeet16/DSA-leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/abjeet16/DSA-leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abjeet16/DSA-leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abjeet16/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
