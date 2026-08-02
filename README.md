@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/abjeet16/DSA-leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2864-maximum-odd-binary-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2706-buy-two-chocolates](https://github.com/abjeet16/DSA-leetcode/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abjeet16/DSA-leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2843-count-symmetric-integers](https://github.com/abjeet16/DSA-leetcode/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
