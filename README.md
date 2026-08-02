@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abjeet16/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abjeet16/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/abjeet16/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abjeet16/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abjeet16/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
