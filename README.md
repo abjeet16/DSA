@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/abjeet16/DSA-leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [2043-simple-bank-system](https://github.com/abjeet16/DSA-leetcode/tree/master/2043-simple-bank-system) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/abjeet16/DSA-leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Iterator
 |  |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/abjeet16/DSA-leetcode/tree/master/1925-count-square-sum-triples) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/abjeet16/DSA-leetcode/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
