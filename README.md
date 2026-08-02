@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abjeet16/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abjeet16/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abjeet16/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/abjeet16/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 ## Sorting
 |  |
 | ------- |
@@ -394,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/abjeet16/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/abjeet16/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/abjeet16/DSA/tree/master/0183-customers-who-never-order) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
