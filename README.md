@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abjeet16/DSA-leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abjeet16/DSA-leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3819-rotate-non-negative-elements](https://github.com/abjeet16/DSA-leetcode/tree/master/3819-rotate-non-negative-elements) |
 ## Two Pointers
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/abjeet16/DSA-leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abjeet16/DSA-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/abjeet16/DSA-leetcode/tree/master/3531-count-covered-buildings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abjeet16/DSA-leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/abjeet16/DSA-leetcode/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
 | ------- |
