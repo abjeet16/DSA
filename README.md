@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/abjeet16/DSA-leetcode/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/abjeet16/DSA-leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abjeet16/DSA-leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abjeet16/DSA-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/abjeet16/DSA-leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Combinatorics
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abjeet16/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abjeet16/DSA-leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
