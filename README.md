@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abjeet16/DSA-leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0611-valid-triangle-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1755-closest-subsequence-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/abjeet16/DSA-leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0761-special-binary-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
