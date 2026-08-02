@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/abjeet16/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abjeet16/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/abjeet16/DSA-leetcode/tree/master/0290-word-pattern) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
