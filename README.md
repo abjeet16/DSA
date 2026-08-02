@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
 | [0806-number-of-lines-to-write-string](https://github.com/abjeet16/DSA-leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/abjeet16/DSA-leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/abjeet16/DSA-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/abjeet16/DSA-leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/abjeet16/DSA-leetcode/tree/master/0748-shortest-completing-word) |
+| [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/abjeet16/DSA-leetcode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abjeet16/DSA-leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/abjeet16/DSA-leetcode/tree/master/0836-rectangle-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/abjeet16/DSA-leetcode/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
