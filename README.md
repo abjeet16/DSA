@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/abjeet16/DSA-leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abjeet16/DSA-leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abjeet16/DSA-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abjeet16/DSA-leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abjeet16/DSA-leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abjeet16/DSA-leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abjeet16/DSA-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
