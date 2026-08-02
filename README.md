@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abjeet16/DSA-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/abjeet16/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abjeet16/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/abjeet16/DSA-leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
