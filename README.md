@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/abjeet16/DSA-leetcode/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/abjeet16/DSA-leetcode/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abjeet16/DSA-leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1518-water-bottles](https://github.com/abjeet16/DSA-leetcode/tree/master/1518-water-bottles) |
 ## Combinatorics
 |  |
 | ------- |
