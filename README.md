@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/abjeet16/DSA-leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abjeet16/DSA-leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abjeet16/DSA-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/abjeet16/DSA-leetcode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/abjeet16/DSA-leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
