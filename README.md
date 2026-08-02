@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/abjeet16/DSA-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/abjeet16/DSA-leetcode/tree/master/1550-three-consecutive-odds) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/abjeet16/DSA-leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/abjeet16/DSA-leetcode/tree/master/1496-path-crossing) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/abjeet16/DSA-leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/abjeet16/DSA-leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/abjeet16/DSA-leetcode/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/abjeet16/DSA-leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/abjeet16/DSA-leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
