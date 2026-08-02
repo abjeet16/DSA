@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abjeet16/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abjeet16/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abjeet16/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abjeet16/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abjeet16/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/abjeet16/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abjeet16/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -424,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/abjeet16/DSA-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
