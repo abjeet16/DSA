@@ -716,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/abjeet16/DSA-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/abjeet16/DSA-leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
