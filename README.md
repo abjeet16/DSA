@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abjeet16/DSA-leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-special-array-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3151-special-array-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/abjeet16/DSA-leetcode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/abjeet16/DSA-leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/abjeet16/DSA-leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/abjeet16/DSA-leetcode/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/abjeet16/DSA-leetcode/tree/master/2540-minimum-common-value) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/abjeet16/DSA-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abjeet16/DSA-leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
 | ------- |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/abjeet16/DSA-leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abjeet16/DSA-leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abjeet16/DSA-leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Recursion
 |  |
@@ -953,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/abjeet16/DSA-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/abjeet16/DSA-leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abjeet16/DSA-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abjeet16/DSA-leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Iterator
 |  |
