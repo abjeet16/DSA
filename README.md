@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abjeet16/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abjeet16/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abjeet16/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abjeet16/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/abjeet16/DSA-leetcode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
