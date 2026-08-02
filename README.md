@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abjeet16/DSA-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/abjeet16/DSA-leetcode/tree/master/1496-path-crossing) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/abjeet16/DSA-leetcode/tree/master/0342-power-of-four) |
 | [1390-four-divisors](https://github.com/abjeet16/DSA-leetcode/tree/master/1390-four-divisors) |
 | [1399-count-largest-group](https://github.com/abjeet16/DSA-leetcode/tree/master/1399-count-largest-group) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/abjeet16/DSA-leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
