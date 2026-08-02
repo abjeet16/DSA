@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/abjeet16/DSA-leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/abjeet16/DSA-leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abjeet16/DSA-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/abjeet16/DSA-leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/abjeet16/DSA-leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abjeet16/DSA-leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abjeet16/DSA-leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/abjeet16/DSA-leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abjeet16/DSA-leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/abjeet16/DSA-leetcode/tree/master/0257-binary-tree-paths) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/abjeet16/DSA-leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abjeet16/DSA-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/abjeet16/DSA-leetcode/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
