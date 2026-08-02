@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abjeet16/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/abjeet16/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abjeet16/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/abjeet16/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Counting
 |  |
 | ------- |
@@ -469,4 +471,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/abjeet16/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
