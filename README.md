@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/abjeet16/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abjeet16/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/abjeet16/DSA-leetcode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abjeet16/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abjeet16/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abjeet16/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abjeet16/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abjeet16/DSA-leetcode/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abjeet16/DSA-leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/abjeet16/DSA-leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/abjeet16/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abjeet16/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abjeet16/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abjeet16/DSA/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abjeet16/DSA-leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
