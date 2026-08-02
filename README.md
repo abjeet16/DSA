@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/abjeet16/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/abjeet16/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/abjeet16/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abjeet16/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Counting
 |  |
 | ------- |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abjeet16/DSA-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abjeet16/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
