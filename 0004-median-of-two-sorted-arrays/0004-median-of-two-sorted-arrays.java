@@ -3,37 +3,30 @@ class Solution {
         // Make sure array a is the smaller one to minimize binary search range
         if (a.length > b.length) return findMedianSortedArrays(b, a);
 
-        int n1 = a.length, n2 = b.length;
-        int low = 0, high = n1;
+        int n = a.length, m = b.length;
+        int low = 0 , high = n;
 
-        // Binary search on the smaller array
-        while (low <= high) {
-            // Calculate cut points for both arrays
-            int cut1 = (low + high) / 2;
-            int cut2 = (n1 + n2 + 1) / 2 - cut1;
+        while(low <= high){
 
-            // Get values to the left and right of the partition
-            // Use Integer.MIN_VALUE and MAX_VALUE to handle edge cases
-            int l1 = (cut1 == 0) ? Integer.MIN_VALUE : a[cut1 - 1];
-            int l2 = (cut2 == 0) ? Integer.MIN_VALUE : b[cut2 - 1];
-            int r1 = (cut1 == n1) ? Integer.MAX_VALUE : a[cut1];
-            int r2 = (cut2 == n2) ? Integer.MAX_VALUE : b[cut2];
+            int c1 = (low+high)/2;
+            int c2 = (n+m+1)/2 - c1;
 
-            // If partition is valid
-            if (l1 <= r2 && l2 <= r1) {
-                // Even total elements => average of two middle elements
-                if ((n1 + n2) % 2 == 0)
-                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
-                else
-                    // Odd total elements => max of left parts
-                    return Math.max(l1, l2);
+            int l1 = c1==0 ?Integer.MIN_VALUE:a[c1-1];
+            int l2 = c2==0 ?Integer.MIN_VALUE:b[c2-1];
+            int r1 = c1==n ?Integer.MAX_VALUE:a[c1];
+            int r2 = c2==m ?Integer.MAX_VALUE:b[c2];
+
+            if(l1<=r2&&l2<=r1){
+                if((n+m)%2==0){
+                    return (Math.max(l1,l2)+Math.min(r1,r2))/2.0;
+                }else{
+                    return Math.max(l1,l2);
+                }
+            }else if(l1>r2){
+                high = c1-1;
+            }else{
+                low = c1+1;
             }
-            // Move left in array a
-            else if (l1 > r2)
-                high = cut1 - 1;
-                // Move right in array a
-            else
-                low = cut1 + 1;
         }
 
         return 0.0;
